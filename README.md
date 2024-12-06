@@ -43,7 +43,7 @@ mahi.html
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <style type="text/css">
 body {
-    background-color:yellow;
+    background-color:blue;
 }
 .edge {
     width: 100%;
@@ -74,7 +74,7 @@ h1 {
 <div class="edge">
     <div class="box">
         <h1>Power Calculation</h1>
-        <h3>Sushmtiha Gembunathan (24001544)</h3>
+        <h3>Deepadhashini T (24005728)</h3>
         <form method="POST">
             {% csrf_token %}
             <div class="formelt">
@@ -150,8 +150,8 @@ urlpatterns = [
 ## SERVER SIDE PROCESSING:
 ![alt text](<Screenshot 2024-12-05 083932.png>)
 
-## HOMEPAGE:
-![alt text](<Screenshot 2024-12-05 083843.png>)
+# HOMEPAGE:
+#![alt text](<Screenshot 2024-12-06 142318.png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
